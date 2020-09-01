@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/truemetro-airport-kiag-niagara/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399161780000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 294,
+      "date": 132434022206241933
+    },
+    {
+      "path": "scenery/global/scenery/modelLib.BGL",
+      "size": 14375400,
+      "date": 132433980907906478
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AFBOTTOM.PNG.DDS",
+      "size": 1398248,
+      "date": 132433980905934686
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AFBOTTOM.PNG.DDS.json",
+      "size": 102,
+      "date": 132433980905884640
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AMERICAN_FALLS_TEXTURE.PNG.DDS",
+      "size": 2796344,
+      "date": 132433980900759982
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AMERICAN_FALLS_TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132433980900699929
+    },
+    {
+      "path": "scenery/world/scenery/AIRPORT-KIAG-POLY.BGL",
+      "size": 7700,
+      "date": 132434026081979877
+    },
+    {
+      "path": "scenery/world/scenery/airport-kiag.bgl",
+      "size": 1816,
+      "date": 132434026081664657
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+    "asset" : {
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Extended Khronos glTF Blender I/O v1.0.0",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Water",
+            "rotation" : [
+                0,
+                -0.27267348766326904,
+                0,
+                0.9621066451072693
+            ],
+            "scale" : [
+                106.9486083984375,
+                157.6911163330078,
+                195.62692260742188
+            ],
+            "translation" : [
+                21.06855010986328,
+                0,
+                -2.252401351928711
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "Material.002",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0,
+                    "texCoord" : 0
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Plane",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "source" : 0
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "American_Falls_Texture",
+            "uri" : "American_Falls_Texture.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 253696,
+            "max" : [
+                -0.12821552157402039,
+                0.40833234786987305,
+                0.9952885508537292
+            ],
+            "min" : [
+                -1.3490252494812012,
+                -0.004994637798517942,
+                -0.8499053120613098
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 253696,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 253696,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5125,
+            "count" : 380544,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 3044352,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 3044352,
+            "byteOffset" : 3044352
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2029568,
+            "byteOffset" : 6088704
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1522176,
+            "byteOffset" : 8118272
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 9640448,
+            "uri" : "american_falls_smooth.bin"
+        }
+    ]
+}

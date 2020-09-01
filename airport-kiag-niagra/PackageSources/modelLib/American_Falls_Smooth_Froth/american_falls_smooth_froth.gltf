@@ -1,0 +1,156 @@
+{
+    "asset" : {
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Extended Khronos glTF Blender I/O v1.0.0",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "AFBottom",
+            "rotation" : [
+                0.025252167135477066,
+                -0.2149614542722702,
+                -0.113905169069767,
+                0.9696285724639893
+            ],
+            "scale" : [
+                176.07208251953125,
+                176.0720672607422,
+                176.07208251953125
+            ],
+            "translation" : [
+                -39.16365051269531,
+                27.695035934448242,
+                -21.330902099609375
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "American_Falls_Bottom",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0,
+                    "texCoord" : 0
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Plane.002",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "source" : 0
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "AFBottom",
+            "uri" : "AFBottom.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 114688,
+            "max" : [
+                0.8973314166069031,
+                0.13531309366226196,
+                1.0270169973373413
+            ],
+            "min" : [
+                -0.03223612532019615,
+                -0.15169580280780792,
+                -1.0493842363357544
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 114688,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 114688,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5125,
+            "count" : 172032,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 1376256,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1376256,
+            "byteOffset" : 1376256
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 917504,
+            "byteOffset" : 2752512
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 688128,
+            "byteOffset" : 3670016
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 4358144,
+            "uri" : "american_falls_smooth_froth.bin"
+        }
+    ]
+}
