@@ -5,8 +5,24 @@
 		<LibraryObject name="{54552F42-15CE-44BE-9A61-3AA9BB9ADEBB}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Rock_Cliff_01-->
-	<SceneryObject lat="43.08448867862202" lon="-79.07019180227729" alt="11.17931883968413" pitch="7.884443" bank="-3.701805" heading="-146.383166" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject lat="43.07914099654356" lon="-79.07827774169631" alt="-55.65080335495287" pitch="0.001025" bank="-0.001025" heading="-119.265321" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{E404D545-8ADD-4FB3-AF50-3EB0E27DA267}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_01-->
+	<SceneryObject lat="43.08000216334418" lon="-79.07458820421957" alt="-19.33550235498660" pitch="7.885371" bank="-3.701833" heading="114.895093" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{E404D545-8ADD-4FB3-AF50-3EB0E27DA267}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_01-->
+	<SceneryObject lat="43.08000216335776" lon="-79.07463184876279" alt="-27.40341969624868" pitch="7.885371" bank="-3.701833" heading="26.045629" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{E404D545-8ADD-4FB3-AF50-3EB0E27DA267}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_01-->
+	<SceneryObject lat="43.08448867862187" lon="-79.07019180227729" alt="11.17932164203376" pitch="7.884443" bank="-3.701805" heading="-146.383166" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{E404D545-8ADD-4FB3-AF50-3EB0E27DA267}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_02-->
+	<SceneryObject lat="43.08011099664125" lon="-79.07491347973210" alt="-3.75436733663557" pitch="-0.860139" bank="-14.061126" heading="-167.577762" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{92A82049-B4BB-418A-9730-B451971E49AC}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Rock_Cliff_02-->
 	<SceneryObject lat="43.08434032378864" lon="-79.07113020706286" alt="0.00000000000000" pitch="0.000744" bank="-0.000744" heading="101.007255" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
@@ -23,6 +39,10 @@
 	<!--SceneryObject name: Rock_Cliff_04-->
 	<SceneryObject lat="43.08565333896760" lon="-79.06959684232864" alt="27.91748727858067" pitch="0.001154" bank="-15.104226" heading="179.999964" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Out01-->
+	<SceneryObject lat="43.07919314923660" lon="-79.07778155153156" alt="2.86034037653830" pitch="-6.054170" bank="30.622771" heading="161.820459" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{A02E0716-FC58-4424-BCD4-C7C40FA91B54}" scale="2.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Rock_Out01-->
 	<SceneryObject lat="43.08512781124085" lon="-79.06963746109466" alt="22.90694397781044" pitch="1.676634" bank="-18.525228" heading="179.985730" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
@@ -44,36 +64,9 @@
 	<SceneryObject lat="43.08475216174696" lon="-79.06990029921852" alt="14.96258661616594" pitch="0.001544" bank="-0.001544" heading="-1.620565" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{FC7E807A-94C7-4945-AC8D-87C43082D235}" scale="0.900000"/>
 	</SceneryObject>
-	<Airport country="United States" state="New York" city="Niagara Falls" name="Niagara Falls International Airport" ident="KIAG" lat="43.10143279950708" lon="-78.94093984561496" alt="179.06174768786877" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE" starAirport="TRUE">
-		<TaxiName index="0" name=""/>
-		<Runway lat="43.10594076306291" lon="-78.93883740478468" alt="177.34386444091797" heading="50.15781021118164" length="1718.42456054687500" width="44.84729385375977" patternAltitude="304.79998779296875" surface="{052FEFB1-11E3-4951-B5C4-D93CE253FD9E}" transparent="FALSE" number="06" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="FALSE">
-			<Coloration red="103" green="114" blue="103" alpha="255" override="TRUE"/>
-			<Markings edges="TRUE" threshold="TRUE" alternateThreshold="FALSE" fixedDistance="TRUE" alternateFixedDistance="FALSE" touchdown="TRUE" alternateTouchdown="FALSE" dashes="TRUE" ident="TRUE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
-			<Lights center="NONE" edge="NONE"/>
-			<RunwayStart end="PRIMARY" lat="43.10553720764192" lon="-78.93949742818565" alt="177.34471706859767" heading="50.15780258178711"/>
-			<RunwayStart end="SECONDARY" lat="43.10634431461511" lon="-78.93817737259118" alt="177.34300008323044" heading="230.15785217285156"/>
-			<Material guid="{052FEFB1-11E3-4951-B5C4-D93CE253FD9E}" type="Base and tire marks" tilingU="1.000000" tilingV="1.000000" width="1.000000" falloff="0.000000" opacity="255"/>
-		</Runway>
-		<Runway lat="43.10433021721244" lon="-78.94451885696992" alt="176.92316429503262" heading="90.15875244140625" length="1209.90161132812500" width="23.12580871582031" patternAltitude="304.79998779296875" surface="{052FEFB1-11E3-4951-B5C4-D93CE253FD9E}" transparent="FALSE" number="10" designator="R" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="FALSE">
-			<Coloration red="103" green="114" blue="103" alpha="255" override="TRUE"/>
-			<Markings edges="TRUE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="TRUE" ident="TRUE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
-			<Lights center="NONE" edge="NONE"/>
-			<RunwayStart end="PRIMARY" lat="43.10433195861514" lon="-78.94537849868632" alt="176.92500807158649" heading="90.15875244140625"/>
-			<RunwayStart end="SECONDARY" lat="43.10432846922085" lon="-78.94365921520129" alt="176.92130393907428" heading="270.15875244140625"/>
-			<Material guid="{052FEFB1-11E3-4951-B5C4-D93CE253FD9E}" type="Base tiled" tilingU="1.000000" tilingV="1.000000" width="1.000000" falloff="0.000000" opacity="255"/>
-		</Runway>
-		<Runway lat="43.10952506279502" lon="-78.94912915754452" alt="177.99729849305004" heading="90.10279846191406" length="2780.14355468750000" width="46.73450469970703" patternAltitude="304.79998779296875" surface="{052FEFB1-11E3-4951-B5C4-D93CE253FD9E}" transparent="FALSE" number="10" designator="L" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="FALSE">
-			<Coloration red="103" green="114" blue="103" alpha="255" override="TRUE"/>
-			<Markings edges="TRUE" threshold="TRUE" alternateThreshold="FALSE" fixedDistance="TRUE" alternateFixedDistance="FALSE" touchdown="TRUE" alternateTouchdown="FALSE" dashes="TRUE" ident="TRUE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
-			<Lights center="NONE" edge="NONE"/>
-			<RunwayStart end="PRIMARY" lat="43.10952620203603" lon="-78.94998887419376" alt="177.99916432145983" heading="90.10417938232422"/>
-			<RunwayStart end="SECONDARY" lat="43.10952391729077" lon="-78.94826944081130" alt="177.99539534747601" heading="270.10418701171875"/>
-			<Material guid="{052FEFB1-11E3-4951-B5C4-D93CE253FD9E}" type="Base and tire marks" tilingU="1.000000" tilingV="1.000000" width="1.000000" falloff="0.000000" opacity="255"/>
-		</Runway>
-		<Aprons/>
-		<PaintedElements/>
-		<ApronEdgeLights/>
-		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="FALSE" deleteAllAprons="FALSE" deleteAllFrequencies="FALSE" deleteAllHelipads="TRUE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllBlastFences="TRUE" deleteAllBoundaryFences="TRUE" deleteAllJetways="TRUE" deleteAllControlTowers="TRUE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="TRUE" deleteAllLightSupports="FALSE" deleteAllTaxiwaySigns="TRUE" deleteAllILSs="FALSE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE"/>
-	</Airport>
+	<!--SceneryObject name: horseshoe_and_froth-->
+	<SceneryObject lat="43.07873942521876" lon="-79.07591024921592" alt="-2.23177414201200" pitch="0.001544" bank="-0.001544" heading="-91.819408" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{5BC49976-4797-4123-865A-83431F0FB2EB}" scale="1.200000"/>
+	</SceneryObject>
 </FSData>
 

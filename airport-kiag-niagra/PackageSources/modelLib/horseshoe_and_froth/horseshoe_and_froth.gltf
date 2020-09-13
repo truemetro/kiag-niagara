@@ -1,0 +1,242 @@
+{
+    "asset" : {
+        "copyright" : "truemetro",
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Extended Khronos glTF Blender I/O v1.0.0",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Horseshoe",
+            "translation" : [
+                -7.342965602874756,
+                6.1998090744018555,
+                3.8213791847229004
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "Froth"
+        }
+    ],
+    "materials" : [
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "Horseshoe",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0,
+                    "texCoord" : 0
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "Horseshoe_Froth",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 1,
+                    "texCoord" : 0
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Plane",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Plane.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "source" : 0
+        },
+        {
+            "source" : 1
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "Horseshoe_falls_texture",
+            "uri" : "Horseshoe_falls_texture.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Horseshoe_froth_texture",
+            "uri" : "Horseshoe_froth_texture.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 315136,
+            "max" : [
+                191.0895233154297,
+                39.871490478515625,
+                182.70053100585938
+            ],
+            "min" : [
+                -116.55908966064453,
+                -12.406797409057617,
+                -151.03810119628906
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 315136,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 315136,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5125,
+            "count" : 472704,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 65536,
+            "max" : [
+                127.42224884033203,
+                9.024402618408203,
+                127.42227172851562
+            ],
+            "min" : [
+                -127.53334045410156,
+                -11.394048690795898,
+                -127.42224884033203
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 65536,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 65536,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5125,
+            "count" : 98304,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 3781632,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 3781632,
+            "byteOffset" : 3781632
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2521088,
+            "byteOffset" : 7563264
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1890816,
+            "byteOffset" : 10084352
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 786432,
+            "byteOffset" : 11975168
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 786432,
+            "byteOffset" : 12761600
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 524288,
+            "byteOffset" : 13548032
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 393216,
+            "byteOffset" : 14072320
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 14465536,
+            "uri" : "horseshoe_and_froth.bin"
+        }
+    ]
+}

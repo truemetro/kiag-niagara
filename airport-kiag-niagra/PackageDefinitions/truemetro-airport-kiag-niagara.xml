@@ -26,7 +26,7 @@
 			<AssetDir>PackageSources\modelLib\</AssetDir>
 			<OutputDir>scenery/global/scenery\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="niagara-airport">
+		<AssetGroup Name="niagara-falls">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>

@@ -8,42 +8,62 @@
     {
       "path": "manifest.json",
       "size": 294,
-      "date": 132434022206241933
+      "date": 132444949308112955
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 14375400,
-      "date": 132433980907906478
+      "size": 41523684,
+      "date": 132444918596293302
     },
     {
       "path": "scenery/global/scenery/TEXTURE/AFBOTTOM.PNG.DDS",
       "size": 1398248,
-      "date": 132433980905934686
+      "date": 132444918584825321
     },
     {
       "path": "scenery/global/scenery/TEXTURE/AFBOTTOM.PNG.DDS.json",
       "size": 102,
-      "date": 132433980905884640
+      "date": 132444918584775269
     },
     {
       "path": "scenery/global/scenery/TEXTURE/AMERICAN_FALLS_TEXTURE.PNG.DDS",
       "size": 2796344,
-      "date": 132433980900759982
+      "date": 132444918582623314
     },
     {
       "path": "scenery/global/scenery/TEXTURE/AMERICAN_FALLS_TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132433980900699929
+      "date": 132444918582563262
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/HORSESHOE_FALLS_TEXTURE.PNG.DDS",
+      "size": 2796344,
+      "date": 132444918590319802
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/HORSESHOE_FALLS_TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132444918590259746
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/HORSESHOE_FROTH_TEXTURE.PNG.DDS",
+      "size": 699192,
+      "date": 132444918586216583
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/HORSESHOE_FROTH_TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132444918586166537
     },
     {
       "path": "scenery/world/scenery/AIRPORT-KIAG-POLY.BGL",
-      "size": 7700,
-      "date": 132434026081979877
+      "size": 13746,
+      "date": 132444949576035860
     },
     {
       "path": "scenery/world/scenery/airport-kiag.bgl",
-      "size": 1816,
-      "date": 132434026081664657
+      "size": 1180,
+      "date": 132444949575525391
     }
   ]
 }
